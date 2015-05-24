@@ -1,0 +1,9 @@
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\bin\x64\Debug\Gestler.exe.config
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\bin\x64\Debug\Gestler.exe
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\bin\x64\Debug\Gestler.pdb
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Debug\Gestler.csprojResolveAssemblyReference.cache
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Debug\Gestler.Form1.resources
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Debug\Gestler.Properties.Resources.resources
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Debug\Gestler.csproj.GenerateResource.Cache
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Debug\Gestler.exe
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Debug\Gestler.pdb

@@ -1,0 +1,8 @@
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\bin\x64\Release\Gestler.exe.config
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\bin\x64\Release\Gestler.exe
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\bin\x64\Release\Gestler.pdb
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Release\Gestler.Gestler.resources
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Release\Gestler.Properties.Resources.resources
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Release\Gestler.csproj.GenerateResource.Cache
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Release\Gestler.exe
+c:\users\rakesh\documents\visual studio 2013\Projects\Gestler\Gestler\obj\x64\Release\Gestler.pdb
